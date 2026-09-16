@@ -1,0 +1,7 @@
+fastapi==0.115.0
+uvicorn==0.30.6
+streamlit==1.38.0
+chromadb==0.5.5
+ollama==0.3.3
+pypdf==4.3.1
+python-multipart==0.0.9
