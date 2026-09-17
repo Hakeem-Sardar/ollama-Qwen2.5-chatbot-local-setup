@@ -1,2 +1,19 @@
+# --- Local Data & Databases (Keep Private) ---
+data/
+db/
+logs/
+
+# --- Python Environment & Cache ---
+venv/
+__pycache__/
+*.pyc
+*.pyo
 .env
 
+# --- OS Specific Files ---
+.DS_Store
+Thumbs.db
+
+# --- IDE Specific Files ---
+.vscode/
+.idea/
